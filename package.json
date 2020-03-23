@@ -1,0 +1,10 @@
+{
+  "name": "my-proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "log4js": "^6.1.2",
+    "through2": "^3.0.1"
+  }
+}
